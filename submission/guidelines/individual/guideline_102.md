@@ -3,10 +3,10 @@
 > MSSV: 3062
 > Bản guideline cá nhân, viết độc lập ở Pha 1.
 
-- Phiên bản: v0-002
+- Phiên bản: v0-102
 - Loại nhãn: bounding box (hộp chữ nhật) trên ảnh đường phố
 - Công cụ: CVAT, xuất COCO 1.0
-- Người viết: Thành viên mã 002
+- Người viết: Thành viên mã 102
 
 ---
 
@@ -74,5 +74,5 @@ Nếu chưa chốt được ca khó, phải tick `can_review` trên box liên qu
 - Ngưỡng tham chiếu QC của bộ dữ liệu: box lớn đạt IoU từ 0,85; box nhỏ đạt IoU từ 0,70; vật thể dưới 20 px cần xem xét `ignore_region`.
 
 | Phiên bản | Thay đổi | Lý do (ca nào) |
-|---|---|---|
-| `v0-002` | Bổ sung quy tắc tách người/xe máy, xe chở xe, tuk-tuk, ảnh mờ, chen lấn, kính/phản chiếu và tượng. | Các ca khó trong `img_002.jpg`, `img_003.jpg`, `img_004.jpg`, `img_006.jpg`, `img_014.jpg`, `img_017.jpg`, `img_019.jpg`, `img_020.jpg`, `img_027.jpg`, `img_030.jpg`. |
+|-----------|---|---|
+| `v0-102`  | Bổ sung quy tắc tách người/xe máy, xe chở xe, tuk-tuk, ảnh mờ, chen lấn, kính/phản chiếu và tượng. | Các ca khó trong `img_002.jpg`, `img_003.jpg`, `img_004.jpg`, `img_006.jpg`, `img_014.jpg`, `img_017.jpg`, `img_019.jpg`, `img_020.jpg`, `img_027.jpg`, `img_030.jpg`. |
