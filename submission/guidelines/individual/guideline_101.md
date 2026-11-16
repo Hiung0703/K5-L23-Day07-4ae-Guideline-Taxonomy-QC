@@ -1,8 +1,8 @@
-# Guideline gán nhãn — v1.0 — 001
+# Guideline gán nhãn — v1.0 — 101
 
 - **Phiên bản:** v1.0 (bản cá nhân đề xuất)
 - **Ngày:** 2026-11-16
-- **Người viết:** 001
+- **Người viết:** 101
 - **Phạm vi dữ liệu:** 40 ảnh đường phố `img_001.jpg`–`img_040.jpg`
 - **Công cụ / định dạng:** CVAT, Bounding Box 2D, COCO 1.0
 
