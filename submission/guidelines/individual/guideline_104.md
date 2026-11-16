@@ -1,8 +1,8 @@
-# Guideline gán nhãn — bản cá nhân — 004
+# Guideline gán nhãn — bản cá nhân — 104
 
-- Phiên bản: v0-individual-004
+- Phiên bản: v0-individual-104
 - Ngày: 2026-11-16
-- Người viết: 004 · Duyệt: chờ họp nhóm Pha 2
+- Người viết: 104 · Duyệt: chờ họp nhóm Pha 2
 
 ## 1. Mục tiêu
 
@@ -107,4 +107,4 @@ Cần hỏi reviewer:
 | Phiên bản | Thay đổi | Ca liên quan |
 |---|---|---|
 | v0 | Bản khởi đầu | — |
-| v0-individual-004 | Thêm `bus`, `bicycle`, `three_wheeler`, `oversized_load`; định nghĩa lại các lớp; ngưỡng `occluded_level`; quy tắc R-01…R-11 | img_029, img_004, img_009, img_017, img_020, img_015, img_032, img_040 |
+| v0-individual-104 | Thêm `bus`, `bicycle`, `three_wheeler`, `oversized_load`; định nghĩa lại các lớp; ngưỡng `occluded_level`; quy tắc R-01…R-11 | img_029, img_004, img_009, img_017, img_020, img_015, img_032, img_040 |
