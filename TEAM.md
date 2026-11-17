@@ -4,7 +4,7 @@
 - Mã thành viên (ba chữ số): **101, 102, 103, 104**
 - Người điều phối / lead: **102**
 - Người review bản cuối: **104**; **102** kiểm chéo gói bàn giao, mỗi ảnh có reviewer riêng khác người sửa.
-- Commit chốt bài (điền ở kênh nộp sau khi commit): **Chưa chốt; cập nhật mã commit thực tế sau khi hoàn tất và commit gói nộp.**
+- Commit chốt bài: **3cea38a** (gói nộp đã push lên `origin/main`).
 
 ## Kết quả tóm tắt hiện tại
 
