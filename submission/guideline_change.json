@@ -1,0 +1,4 @@
+{
+    "kind":  "semantic",
+    "summary":  "Guideline v1.1 bổ sung CAL-01–CAL-05 về che khuất/cắt mép, phạm vi ignore, ghép lại cùng vật, tách người–xe và ca chưa đủ bằng chứng; làm rõ việc tài xế nhìn qua kính không tự động làm thân ô tô bị che. Có thể đổi nhãn nên rà lại toàn bộ 40 ảnh, gồm cả 5 ảnh không có cờ. Giữ nguyên schema và rules của taxonomy v1.0. Hướng xử lý từng ca còn chờ người phụ trách chốt, sửa và kiểm lại theo trạng thái trong calibration_decisions.csv."
+}

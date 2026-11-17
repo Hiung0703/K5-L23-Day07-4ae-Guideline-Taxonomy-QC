@@ -1,6 +1,5 @@
 # Guideline gán nhãn — v0 — 102
 
-> MSSV: 3062
 > Bản guideline cá nhân, viết độc lập ở Pha 1.
 
 - Phiên bản: v0-102
